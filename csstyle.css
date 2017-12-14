@@ -1,0 +1,12 @@
+#obr_block {
+	height: 30%;
+	width: 60%;
+	background-color: #f7f574;
+	margin: auto;
+}
+#obr {
+	height: 100%;
+	width: 100%;
+	max-width: 2223px;
+	max-height: 1101px;
+}
