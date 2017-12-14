@@ -1,11 +1,11 @@
-Jano - navrh dizajnu stranky
+Jano - navrh dizajnu stranky, zaciatok html&php
 
 
 
 
 
 
-Edo - spravenie databazy, snaha o spravenie uvodneho obrazku, ale inkscape a skolske servery nespolupracovali
+Edo - spravenie databazy, spravenie uvodneho obrazku, zaciatok css
 
 
 
