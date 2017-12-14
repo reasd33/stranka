@@ -1,0 +1,2 @@
+# stranka
+stranka
