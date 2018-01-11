@@ -3,12 +3,7 @@
 ?>
 <html>
 	<head>
-		<style>
-			a:link, a:visited{
-				display: inline-block;
-				background-color: red;
-			} 
-		</style>
+		
 	</head>
 	<body>
 		<?php
