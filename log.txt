@@ -1,11 +1,11 @@
-Jano - navrh dizajnu stranky, zaciatok html&php
+Jano - navrh dizajnu stranky, html & php & mysql integracia
 
 
 
 
 
 
-Edo - spravenie databazy, spravenie uvodneho obrazku, zaciatok css
+Edo - spravenie databazy, spravenie uvodneho obrazku, css, dizajn, grafika, html
 
 
 
